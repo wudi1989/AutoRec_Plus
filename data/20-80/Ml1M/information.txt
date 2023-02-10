@@ -1,0 +1,2 @@
+rating_Max:5.0   rating_Min:1.0
+maxUserID: 6040   maxItemID:3706  ratings:1,000,209

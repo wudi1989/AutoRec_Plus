@@ -1,0 +1,2 @@
+rating_Max:5.0   rating_Min:0.5
+maxUserID: 2113   maxItemID:10109  Ratings:855598
