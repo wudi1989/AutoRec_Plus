@@ -28,7 +28,7 @@ We offer all the dataset with three different train-test ratio involved in the e
 1. Clone this repository
 
 ```angular2html
-git clone https://github.com/Wuziqiao/AutoRec_Plus.git
+git clone https://github.com/wudi1989/AutoRec_Plus.git
 ```
 
 2. Make sure you meet package requirements by running:
